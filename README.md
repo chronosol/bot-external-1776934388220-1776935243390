@@ -1,2 +1,16 @@
-# bot-external-1776934388220-1776935243390
-Chatbot APK for External Bot | BotForge Project: 2af693f1-a55a-4eeb-909a-6c2c30a802ed
+# business_chatbot_template
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
